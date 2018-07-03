@@ -1,0 +1,8 @@
+Notebooks/
+__pycache__/
+utiles/__pycache__/
+.idea/
+
+*.bak
+*.pyc
+*.json
